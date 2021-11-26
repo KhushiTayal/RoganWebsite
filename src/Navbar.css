@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+}
+.container-fluid{
+    background-color: gray;
+    height: 70px;
+}
+
+.Nav{
+    background-color: gray;
+}
